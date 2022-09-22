@@ -1,0 +1,30 @@
+body {
+    background-color: #10e3ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+a {
+    color:rgb(0, 0, 0);
+}
+
+p {
+    color:rgb(0, 0, 0);
+}
+
+.smaller-image {
+    width: 250px;
+    height: 125px;
+}
+
+.smaller-image-2 {
+    width: 200px;
+    height: 200px;
+}
+
+.zeteny-h1 {
+    font-size: 35px;
+}
